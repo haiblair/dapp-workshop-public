@@ -1,0 +1,6 @@
+$ npm init
+$ npm install --save-dev hardhat
+$ npx hardhat init
+$ npx hardhat compile
+$ npx hardhat test
+$ npx hardhat ignition deploy ignition/modules/Certifications.ts --network kiichain
